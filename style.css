@@ -1,0 +1,31 @@
+
+{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+body
+{
+display: flex;
+justify-_content: center;
+align-items: center;
+min-height: 100vh;
+background: #333;
+}
+.container
+{
+    display: flex;
+  justify-content: center;
+   align-items:  center;
+flex-direction: column;
+ gap: 40px;
+}
+.rating
+{
+position: relative;
+diasplay;flex;
+padding: 30px 40px;
+border: 3px solid #111;
+backround: #353535;
+box-shadow: 30px 3opx 3opx -10px rgba(0,0,0,0.5),
+inset 15px 15px 3px rgba(255,255,255,0.1),
